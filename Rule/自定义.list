@@ -1,2 +1,11 @@
-# MP 域名匹配
 DOMAIN-SUFFIX,t0t.org
+DOMAIN-SUFFIX,dockerproxy.com
+DOMAIN-SUFFIX,m.daocloud.io
+DOMAIN-SUFFIX,console.aliyun.com
+DOMAIN-SUFFIX,ccs.tencentyun.com
+DOMAIN-SUFFIX,hub-mirror.c.163.com
+DOMAIN-SUFFIX,baidubce.com
+DOMAIN-SUFFIX,docker.nju.edu.cn
+DOMAIN-SUFFIX,mirrors.sjtug.sjtu.edu.cn
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,docker-cn.com
