@@ -1,4 +1,3 @@
-# MP Ã¥ÂÂÃ¥ÂÂÃ¥ÂÂ¹Ã©ÂÂ
 DOMAIN-SUFFIX,t0t.org
 DOMAIN-SUFFIX,dockerproxy.com
 DOMAIN-SUFFIX,m.daocloud.io
@@ -10,15 +9,11 @@ DOMAIN-SUFFIX,docker.nju.edu.cn
 DOMAIN-SUFFIX,mirrors.sjtug.sjtu.edu.cn
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,docker-cn.com
-#Ã©ÂÂ·Ã©Â²Â¸Ã§Â½ÂÃ§Â«Â
 DOMAIN-SUFFIX,leijing1.com
-#Ã¥ÂÂ¾Ã¥ÂºÂ
 DOMAIN-SUFFIX,i.mji.rip
 DOMAIN-SUFFIX,s2.loli.net
 DOMAIN-SUFFIX,cdn.nodeimage.com
-#Ã¤ÂºÂÃ¦ÂÂÃ¥ÂÂ¡Ã¥ÂÂ¨
 DOMAIN-SUFFIX,claw.cloud
-#alistÃ¥ÂÂÃ¤ÂºÂ«Ã§Â«Â
 DOMAIN-SUFFIX,asmrgay.org
 DOMAIN-SUFFIX,asmrgay.com
 DOMAIN-KEYWORD,asmr
