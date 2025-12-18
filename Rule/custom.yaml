@@ -7,22 +7,31 @@ payload:
   - DOMAIN-SUFFIX,asmrgay.com
   - DOMAIN-SUFFIX,asmrgay.org
   - DOMAIN-SUFFIX,baidubce.com
+  - DOMAIN-SUFFIX,ccr.ccs.tencentyun.com
   - DOMAIN-SUFFIX,claw.cloud
   - DOMAIN-SUFFIX,colocrossing.com
+  - DOMAIN-SUFFIX,cr.console.aliyun.com
   - DOMAIN-SUFFIX,daocloud.io
   - DOMAIN-SUFFIX,deepflood.com
   - DOMAIN-SUFFIX,docker-cn.com
+  - DOMAIN-SUFFIX,docker.m.daocloud.io
+  - DOMAIN-SUFFIX,docker.mirrors.sjtug.sjtu.edu.cn
+  - DOMAIN-SUFFIX,docker.nju.edu.cn
   - DOMAIN-SUFFIX,dockerproxy.com
+  - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,hostloc.com
+  - DOMAIN-SUFFIX,hub-mirror.c.163.com
   - DOMAIN-SUFFIX,leijing1.com
   - DOMAIN-SUFFIX,loli.net
   - DOMAIN-SUFFIX,lowendspirit.com
   - DOMAIN-SUFFIX,mamahaha.guogai.xyz
+  - DOMAIN-SUFFIX,mirror.baidubce.com
   - DOMAIN-SUFFIX,mji.rip
   - DOMAIN-SUFFIX,nju.edu.cn
   - DOMAIN-SUFFIX,nodeimage.com
   - DOMAIN-SUFFIX,nodequality.com
   - DOMAIN-SUFFIX,opaoai.com
+  - DOMAIN-SUFFIX,registry.docker-cn.com
   - DOMAIN-SUFFIX,sjtu.edu.cn
   - DOMAIN-SUFFIX,tencentyun.com
   - DOMAIN-SUFFIX,urlnode.com
