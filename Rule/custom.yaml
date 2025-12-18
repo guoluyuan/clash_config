@@ -1,6 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,124136.xyz
   - DOMAIN-SUFFIX,163.com
+  - DOMAIN-SUFFIX,192.168.2.196
   - DOMAIN-SUFFIX,22112211.xyz
   - DOMAIN-SUFFIX,aliyun.com
   - DOMAIN-SUFFIX,asmrgay.com
@@ -24,3 +25,4 @@ payload:
   - DOMAIN-SUFFIX,sjtu.edu.cn
   - DOMAIN-SUFFIX,tencentyun.com
   - DOMAIN-SUFFIX,urlnode.com
+  - DOMAIN-SUFFIX,yaohuo.me
