@@ -17,7 +17,6 @@ payload:
   - DOMAIN-SUFFIX,docker.mirrors.sjtug.sjtu.edu.cn
   - DOMAIN-SUFFIX,docker.nju.edu.cn
   - DOMAIN-SUFFIX,dockerproxy.com
-  - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,hostloc.com
   - DOMAIN-SUFFIX,hub-mirror.c.163.com
   - DOMAIN-SUFFIX,leijing1.com
