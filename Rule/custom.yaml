@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,asmrgay.com
   - DOMAIN-SUFFIX,asmrgay.org
   - DOMAIN-SUFFIX,baidubce.com
+  - DOMAIN-SUFFIX,bilibili.com
   - DOMAIN-SUFFIX,ccr.ccs.tencentyun.com
   - DOMAIN-SUFFIX,colocrossing.com
   - DOMAIN-SUFFIX,cr.console.aliyun.com
