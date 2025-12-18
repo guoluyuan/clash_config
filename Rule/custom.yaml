@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,leijing1.com
   - DOMAIN-SUFFIX,loli.net
   - DOMAIN-SUFFIX,lowendspirit.com
+  - DOMAIN-SUFFIX,mamahaha.guogai.xyz
   - DOMAIN-SUFFIX,mji.rip
   - DOMAIN-SUFFIX,nju.edu.cn
   - DOMAIN-SUFFIX,nodeimage.com
@@ -25,3 +26,4 @@ payload:
   - DOMAIN-SUFFIX,sjtu.edu.cn
   - DOMAIN-SUFFIX,tencentyun.com
   - DOMAIN-SUFFIX,urlnode.com
+  - DOMAIN-SUFFIX,yaohuo.me
