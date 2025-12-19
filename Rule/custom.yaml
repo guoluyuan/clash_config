@@ -26,3 +26,4 @@ payload:
   - DOMAIN-SUFFIX,registry.docker-cn.com
   - DOMAIN-SUFFIX,sjtu.edu.cn
   - DOMAIN-SUFFIX,tencentyun.com
+  - DOMAIN-SUFFIX,wawo.wiki
