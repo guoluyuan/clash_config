@@ -24,6 +24,7 @@ payload:
   - DOMAIN-SUFFIX,nbnb.plus
   - DOMAIN-SUFFIX,nju.edu.cn
   - DOMAIN-SUFFIX,nodeimage.com
+  - DOMAIN-SUFFIX,omnitt.com
   - DOMAIN-SUFFIX,registry.docker-cn.com
   - DOMAIN-SUFFIX,sjtu.edu.cn
   - DOMAIN-SUFFIX,tencentyun.com
