@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,ccr.ccs.tencentyun.com
   - DOMAIN-SUFFIX,claw.cloud
   - DOMAIN-SUFFIX,colocrossing.com
+  - DOMAIN-SUFFIX,cp.okshk.com
   - DOMAIN-SUFFIX,cr.console.aliyun.com
   - DOMAIN-SUFFIX,daocloud.io
   - DOMAIN-SUFFIX,deepflood.com
