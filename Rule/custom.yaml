@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,dockerproxy.com
   - DOMAIN-SUFFIX,hostloc.com
   - DOMAIN-SUFFIX,hub-mirror.c.163.com
+  - DOMAIN-SUFFIX,idcvm.com
   - DOMAIN-SUFFIX,lowendspirit.com
   - DOMAIN-SUFFIX,mamahaha.guogai.xyz
   - DOMAIN-SUFFIX,mirror.baidubce.com
