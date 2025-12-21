@@ -23,6 +23,7 @@ payload:
   - DOMAIN-SUFFIX,nodeimage.com
   - DOMAIN-SUFFIX,okshk.com
   - DOMAIN-SUFFIX,omnitt.com
+  - DOMAIN-SUFFIX,report.check.place
   - DOMAIN-SUFFIX,sjtu.edu.cn
   - DOMAIN-SUFFIX,tencentyun.com
   - DOMAIN-SUFFIX,videowdl.uk
