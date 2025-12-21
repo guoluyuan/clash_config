@@ -1,32 +1,29 @@
 payload:
   - DOMAIN-SUFFIX,124136.xyz
+  - DOMAIN-SUFFIX,163.com
   - DOMAIN-SUFFIX,22112211.xyz
+  - DOMAIN-SUFFIX,aliyun.com
   - DOMAIN-SUFFIX,asmrgay.com
   - DOMAIN-SUFFIX,asmrgay.org
-  - DOMAIN-SUFFIX,ccr.ccs.tencentyun.com
+  - DOMAIN-SUFFIX,baidubce.com
   - DOMAIN-SUFFIX,claw.cloud
   - DOMAIN-SUFFIX,colocrossing.com
-  - DOMAIN-SUFFIX,cp.okshk.com
-  - DOMAIN-SUFFIX,cr.console.aliyun.com
   - DOMAIN-SUFFIX,daocloud.io
   - DOMAIN-SUFFIX,deepflood.com
   - DOMAIN-SUFFIX,docker-cn.com
-  - DOMAIN-SUFFIX,docker.m.daocloud.io
-  - DOMAIN-SUFFIX,docker.mirrors.sjtug.sjtu.edu.cn
-  - DOMAIN-SUFFIX,docker.nju.edu.cn
   - DOMAIN-SUFFIX,dockerproxy.com
+  - DOMAIN-SUFFIX,guogai.xyz
   - DOMAIN-SUFFIX,hostloc.com
-  - DOMAIN-SUFFIX,hub-mirror.c.163.com
   - DOMAIN-SUFFIX,idcvm.com
+  - DOMAIN-SUFFIX,img.imgdd.com
   - DOMAIN-SUFFIX,lowendspirit.com
-  - DOMAIN-SUFFIX,mamahaha.guogai.xyz
-  - DOMAIN-SUFFIX,mirror.baidubce.com
   - DOMAIN-SUFFIX,mji.rip
   - DOMAIN-SUFFIX,nbnb.plus
   - DOMAIN-SUFFIX,nju.edu.cn
   - DOMAIN-SUFFIX,nodeimage.com
+  - DOMAIN-SUFFIX,okshk.com
   - DOMAIN-SUFFIX,omnitt.com
-  - DOMAIN-SUFFIX,registry.docker-cn.com
   - DOMAIN-SUFFIX,sjtu.edu.cn
   - DOMAIN-SUFFIX,tencentyun.com
+  - DOMAIN-SUFFIX,videowdl.uk
   - DOMAIN-SUFFIX,wawo.wiki
