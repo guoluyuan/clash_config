@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,asmrgay.com
   - DOMAIN-SUFFIX,asmrgay.org
   - DOMAIN-SUFFIX,baidubce.com
+  - DOMAIN-SUFFIX,check.place
   - DOMAIN-SUFFIX,claw.cloud
   - DOMAIN-SUFFIX,colocrossing.com
   - DOMAIN-SUFFIX,daocloud.io
@@ -15,7 +16,8 @@ payload:
   - DOMAIN-SUFFIX,guogai.xyz
   - DOMAIN-SUFFIX,hostloc.com
   - DOMAIN-SUFFIX,idcvm.com
-  - DOMAIN-SUFFIX,img.imgdd.com
+  - DOMAIN-SUFFIX,imgdd.com
+  - DOMAIN-SUFFIX,johntool.com
   - DOMAIN-SUFFIX,lowendspirit.com
   - DOMAIN-SUFFIX,mji.rip
   - DOMAIN-SUFFIX,nbnb.plus
@@ -23,8 +25,8 @@ payload:
   - DOMAIN-SUFFIX,nodeimage.com
   - DOMAIN-SUFFIX,okshk.com
   - DOMAIN-SUFFIX,omnitt.com
-  - DOMAIN-SUFFIX,report.check.place
   - DOMAIN-SUFFIX,sjtu.edu.cn
   - DOMAIN-SUFFIX,tencentyun.com
   - DOMAIN-SUFFIX,videowdl.uk
+  - DOMAIN-SUFFIX,vipcloud.cc
   - DOMAIN-SUFFIX,wawo.wiki
