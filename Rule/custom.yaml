@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,asmrgay.com
   - DOMAIN-SUFFIX,asmrgay.org
   - DOMAIN-SUFFIX,baidubce.com
+  - DOMAIN-SUFFIX,bbs-1498741.html
   - DOMAIN-SUFFIX,check.place
   - DOMAIN-SUFFIX,claw.cloud
   - DOMAIN-SUFFIX,colocrossing.com
@@ -33,3 +34,4 @@ payload:
   - DOMAIN-SUFFIX,videowdl.uk
   - DOMAIN-SUFFIX,vipcloud.cc
   - DOMAIN-SUFFIX,wawo.wiki
+  - DOMAIN-SUFFIX,yaohuo.me
