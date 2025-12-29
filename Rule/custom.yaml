@@ -12,7 +12,6 @@ payload:
   - DOMAIN-SUFFIX,deepflood.com
   - DOMAIN-SUFFIX,docker-cn.com
   - DOMAIN-SUFFIX,dockerproxy.com
-  - DOMAIN-SUFFIX,guogai.xyz
   - DOMAIN-SUFFIX,hostloc.com
   - DOMAIN-SUFFIX,idcvm.com
   - DOMAIN-SUFFIX,img.runningotter.com
