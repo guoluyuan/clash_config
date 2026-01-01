@@ -9,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,colocrossing.com
   - DOMAIN-SUFFIX,daocloud.io
   - DOMAIN-SUFFIX,deepflood.com
+  - DOMAIN-SUFFIX,diyforfun.cn
   - DOMAIN-SUFFIX,docker-cn.com
   - DOMAIN-SUFFIX,dockerproxy.com
   - DOMAIN-SUFFIX,hostloc.com
