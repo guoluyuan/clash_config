@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,asmrgay.com
   - DOMAIN-SUFFIX,asmrgay.org
   - DOMAIN-SUFFIX,baidubce.com
+  - DOMAIN-SUFFIX,cf-emby.202507.xyz
   - DOMAIN-SUFFIX,check.place
   - DOMAIN-SUFFIX,claw.cloud
   - DOMAIN-SUFFIX,colocrossing.com
