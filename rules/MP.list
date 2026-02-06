@@ -1,0 +1,6 @@
+# MP 域名匹配
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,tmdb-image-prod.b-cdn.net
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,thetvdb.com
+DOMAIN-SUFFIX,fanart.tv

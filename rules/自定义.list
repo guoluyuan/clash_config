@@ -1,0 +1,25 @@
+# MP 域名匹配
+DOMAIN-SUFFIX,t0t.org
+DOMAIN-SUFFIX,dockerproxy.com
+DOMAIN-SUFFIX,m.daocloud.io
+DOMAIN-SUFFIX,console.aliyun.com
+DOMAIN-SUFFIX,ccs.tencentyun.com
+DOMAIN-SUFFIX,hub-mirror.c.163.com
+DOMAIN-SUFFIX,baidubce.com
+DOMAIN-SUFFIX,docker.nju.edu.cn
+DOMAIN-SUFFIX,mirrors.sjtug.sjtu.edu.cn
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,docker-cn.com
+#雷鲸网站
+DOMAIN-SUFFIX,leijing1.com
+#图床
+DOMAIN-SUFFIX,i.mji.rip
+DOMAIN-SUFFIX,s2.loli.net
+DOMAIN-SUFFIX,cdn.nodeimage.com
+#云服务器
+DOMAIN-SUFFIX,claw.cloud
+#alist分享站
+DOMAIN-SUFFIX,asmrgay.org
+DOMAIN-SUFFIX,asmrgay.com
+DOMAIN-KEYWORD,asmr
+
