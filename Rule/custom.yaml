@@ -13,24 +13,26 @@ payload:
   - DOMAIN-SUFFIX,diyforfun.cn
   - DOMAIN-SUFFIX,docker-cn.com
   - DOMAIN-SUFFIX,dockerproxy.com
+  - DOMAIN-SUFFIX,gdstudio.xyz
   - DOMAIN-SUFFIX,hostloc.com
   - DOMAIN-SUFFIX,idcvm.com
-  - DOMAIN-SUFFIX,img.runningotter.com
   - DOMAIN-SUFFIX,imgdd.com
   - DOMAIN-SUFFIX,internetdownloadmanager.com
   - DOMAIN-SUFFIX,ish.chat
   - DOMAIN-SUFFIX,johntool.com
   - DOMAIN-SUFFIX,ksy.moe
   - DOMAIN-SUFFIX,lowendspirit.com
+  - DOMAIN-SUFFIX,mf.a0001.net
   - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,missav.live
   - DOMAIN-SUFFIX,mji.rip
-  - DOMAIN-SUFFIX,music.gdstudio.xyz
-  - DOMAIN-SUFFIX,my.rfchost.com
   - DOMAIN-SUFFIX,nbnb.plus
   - DOMAIN-SUFFIX,nju.edu.cn
   - DOMAIN-SUFFIX,nodeimage.com
   - DOMAIN-SUFFIX,okshk.com
   - DOMAIN-SUFFIX,omnitt.com
+  - DOMAIN-SUFFIX,rfchost.com
+  - DOMAIN-SUFFIX,runningotter.com
   - DOMAIN-SUFFIX,sjtu.edu.cn
   - DOMAIN-SUFFIX,tencentyun.com
   - DOMAIN-SUFFIX,videowdl.uk
