@@ -14,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,docker-cn.com
   - DOMAIN-SUFFIX,dockerproxy.com
   - DOMAIN-SUFFIX,gdstudio.xyz
+  - DOMAIN-SUFFIX,github-hosts.tinsfox.com
   - DOMAIN-SUFFIX,hostloc.com
   - DOMAIN-SUFFIX,idcvm.com
   - DOMAIN-SUFFIX,imgdd.com
