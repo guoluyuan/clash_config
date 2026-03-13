@@ -35,6 +35,7 @@ payload:
   - DOMAIN-SUFFIX,runningotter.com
   - DOMAIN-SUFFIX,sjtu.edu.cn
   - DOMAIN-SUFFIX,tencentyun.com
+  - DOMAIN-SUFFIX,tuolelu.net
   - DOMAIN-SUFFIX,videowdl.uk
   - DOMAIN-SUFFIX,vipcloud.cc
   - DOMAIN-SUFFIX,wapindex.aspx
